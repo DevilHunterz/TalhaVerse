@@ -1,0 +1,7 @@
+netlify/
+frontend/
+*.md
+.git/
+.gitignore
+TalhaVerse-Backup.zip
+backend.rar
